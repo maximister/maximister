@@ -5,7 +5,8 @@
 
 ### Languages and tools🔨
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,linux,js,html,css&theme=light)](https://skillicons.dev)
-
+### Socials😉
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Maximkarv)
 <!--
 **maximister/maximister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
