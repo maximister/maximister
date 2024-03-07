@@ -1,7 +1,7 @@
-# Hi, my name is Maxim!😃
+## Hi, my name is Maxim!😃
 
-## As a second-year student at RTU MIREA in Moscow, Russia, I am an enthusiastic server developer, proficient in Java, Spring, Git, SQL and REST. My dream is to develop large, efficient, scalable systems.
-### Everyday I try to improve and learn something new, delving into Spring, version control systems, databases, containerization, Linux, Kafka and other necessary technologies.
+### As a second-year student at RTU MIREA in Moscow, Russia, I am an enthusiastic server developer, proficient in Java, Spring, Git, SQL and REST. My dream is to develop large, efficient, scalable systems.
+#### Everyday I try to improve and learn something new, delving into Spring, version control systems, databases, containerization, Linux, Kafka and other necessary technologies.
 
 ### Languages and tools🔨
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,linux,js,html,css&theme=light)](https://skillicons.dev)
