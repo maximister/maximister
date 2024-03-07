@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, my name is Maxim!
+
+### As a second-year student at RTU MIREA in Moscow, Russia, I am an enthusiastic server developer, proficient in Java, Spring, Git, SQL and REST. My dream is to develop large, efficient, scalable systems.
+#### Everyday I try to improve and learn something new, delving into Spring, version control systems, databases, containerization, Linux, Kafka and other necessary technologies.
+
 
 <!--
 **maximister/maximister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
