@@ -4,7 +4,7 @@
 #### Everyday I try to improve and learn something new, delving into Spring, version control systems, databases, containerization, Linux, Kafka and other necessary technologies.
 
 ### Languages and tools🔨
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,git,js,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,kafka,docker,git,js,html,css&theme=light)](https://skillicons.dev)
 ### Socials😉
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)](https://t.me/Maximkarv)
 <!--
